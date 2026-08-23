@@ -1,0 +1,3 @@
+.debloat/
+node_modules/
+*.log

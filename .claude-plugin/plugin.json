@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "debloat",
+  "version": "0.1.0",
+  "description": "Scanner/applicator agents for repo bloat cleanup: dead code, dead attributes, redundant logging, comment spam, and complexity flagging.",
+  "author": {
+    "name": "Ishay",
+    "email": "ishay@invoice4u.co.il"
+  },
+  "skills": [
+    "./skills"
+  ]
+}
