@@ -1,3 +1,5 @@
 .debloat/
 node_modules/
 *.log
+DESIGN.md
+PLAN.md
